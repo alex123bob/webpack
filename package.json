@@ -1,5 +1,5 @@
 {
-  "name": "webpack",
+  "name": "webpack-project",
   "version": "1.0.0",
   "description": "Have a try with webpack",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alex123bob/webpack/issues"
   },
-  "homepage": "https://github.com/alex123bob/webpack#readme"
+  "homepage": "https://github.com/alex123bob/webpack#readme",
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  }
 }
